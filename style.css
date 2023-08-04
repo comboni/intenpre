@@ -1,0 +1,20 @@
+.maintitle{
+  margin-top: 2vh;
+  text-align: center;
+}
+.intmiss{
+    margin-top: 2vh;
+}
+.intmisstitle{
+
+  font-weight: bold;
+}
+.blueback{
+  background-color:lightblue
+}
+.grayback{
+  background-color: lavender;
+}
+.fillet{
+  border-top: black solid 3px;
+}
